@@ -98,7 +98,7 @@ export default function ApodPage() {
                 onClick={() => fetchAPOD()}
                 className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded"
               >
-                Today’s Image
+                Today&apos;s Image
               </button>
               <button
                 onClick={() => fetchAPOD(getRandomDate())}

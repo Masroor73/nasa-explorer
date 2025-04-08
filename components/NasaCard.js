@@ -13,7 +13,7 @@ export default function NasaCard({ data }) {
             className="rounded-lg mb-4 max-h-[400px] object-cover mx-auto"
           />
         ) : (
-          <p className="text-red-500">This APOD is not an image (e.g., it’s a video)</p>
+          <p className="text-red-500">This APOD is not an image (e.g., it&apos;s a video)</p>
         )}
   
         <p className="text-md">{explanation}</p>
