@@ -17,7 +17,7 @@ export default function HomePage() {
           Welcome to NASA Explorer
         </h1>
         <p className="text-base sm:text-lg mb-8 max-w-2xl leading-relaxed">
-          Discover awe-inspiring images from NASA's Astronomy Picture of the Day. Choose a date, go random, or check today's featured snapshot of the cosmos.
+          Discover awe-inspiring images from NASA&apos;s Astronomy Picture of the Day. Choose a date, go random, or check today&apos;s featured snapshot of the cosmos.
         </p>
         <a
           href="/explore"
